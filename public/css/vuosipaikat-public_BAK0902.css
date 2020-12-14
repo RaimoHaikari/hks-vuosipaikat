@@ -1,0 +1,25 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ 
+/* Vuosipaikkalaiset */
+ul.vp_list  span {
+	display: block;
+	cursor: pointer;
+}
+
+ul.vp_list  span.active {
+	background: red;
+}
+
+
+ /* Kartta */
+g.vuosipaikka rect, g.vuosipaikka path{
+  fill: red; 
+  cursor: pointer;
+}
+
+g.vuosipaikka rect.active, g.vuosipaikka path.active {
+	fill: navy;
+}

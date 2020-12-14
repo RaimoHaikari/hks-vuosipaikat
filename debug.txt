@@ -1,0 +1,16 @@
+http://localhost/hks/wp-content/plugins/vuosipaikat/includes/../public/js/vuosipaikat-public.js
+http://localhost/hks/wp-content/plugins/vuosipaikat/includes/../public/js/vuosipaikat-public.js
+http://localhost/hks/wp-content/plugins/vuosipaikat/includes/../public/js/vuosipaikat-public.js
+Ajetaan: display_map_and_list
+Ajetaan: display_map_and_list
+Ajetaan: display_map_and_list
+Ajetaan: display_map_and_list
+Ajetaan: display_map_and_list
+Ajetaan: display_map_and_list
+Ajetaan: display_map_and_list
+Ajetaan: display_map_and_list
+Ajetaan: display_map_and_list
+Ajetaan: display_map_and_list
+Ajetaan: display_map_and_list
+Ajetaan: display_map_and_list
+Ajetaan: display_map_and_list

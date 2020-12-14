@@ -1,0 +1,40 @@
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+.blue-eyes #leftEye, .blue-eyes #rightEye {
+	fill: #175282;
+}
+
+/* Vuosipaikkalaiset: lista (accordion) */
+.hks_vp_card-header:hover {}
+
+.hks_vp_collapse_btn-link-has-content::after{
+	content: '\25be';
+	float: right;
+	transform: scale(1.5);
+}
+
+/* Vuosipaikkalaiset:  Kartta */
+g.hks_vuosipaikka rect, g.hks_vuosipaikka path{
+  fill: red; 
+}
+
+g.hks_vuosipaikka rect.hks_vuosipaikka_active, 
+g.hks_vuosipaikka path.hks_vuosipaikka_active {
+	fill: #28a745;
+}
+
+g.hks_vuosipaikka rect.hks_kuosipaikka_active, 
+g.hks_vuosipaikka path.hks_kuosipaikka_active {
+	fill: none;
+}
+
+g.hks_vuosipaikka rect.hovered,
+g.hks_vuosipaikka path.hovered,
+g.hks_vuosipaikka rect:hover, 
+g.hks_vuosipaikka path:hover {
+	fill: blue;
+	cursor: pointer;
+}
